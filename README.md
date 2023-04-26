@@ -27,3 +27,5 @@
 ## Contato:
 
 <a href="https://www.linkedin.com/in/douglas-candido-095088269/"><img height=60px align="center" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /><a/>
+<a href="https://wa.me/5521983974366"><img height=60px width="60px" align="center" alt="WhatsApp" src="https://cdn.iconscout.com/icon/free/png-512/free-whatsapp-42-189793.png?f=avif&w=256" /><a/>
+<a href="mailto:douglascandido@workmail.com"><img height=60px width=60px align="center" alt="E-mail" src="https://cdn.iconscout.com/icon/free/png-512/free-email-letter-envelope-message-38065.png?f=avif&w=256" /></a>
