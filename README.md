@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hi, my name is Douglas, and I'm a back-end web developer!</h1>
+<h1>👋 &nbsp;Hi! My name is Douglas, and I'm a back-end web developer!</h1>
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
