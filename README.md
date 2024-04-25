@@ -2,13 +2,12 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript&logoColor=2D79C7)
+![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-333333?style=flat&logo=nestjs&logoColor=E535AB)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=prisma)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 
 
 <h2>📫 &nbsp;Contact</h2>
